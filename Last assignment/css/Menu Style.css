@@ -11,61 +11,66 @@ h1 {
     font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
-	color: #000000;	
-	background-color: #FFFFFF;
-	text-align: center;	
+    font-size: 30px;
+    text-align: center;	
 }
-.navbar-nav {
-    font-family: baumans;
+.nav-link {
+    font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
-    color: #000000;
-    background-color: #FFFFFF;
-    text-align: center;	
+	text-align: center;
+	font-size: 20px;
+	color: #000000;	
 }
 .nav-item {
-    font-family: baumans;
+    font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
-    color: #000000;
-    background-color: #FFFFFF;
-    text-align: center;	
+    text-align: center;
+    font-size: 20px;
+    color: #000000;	
 }
 h2 {
     font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
     font-size: 45px;
+	color: #FFFFFF;	
 }
 p {
     font-family: baumans;
     font-style: normal;
     font-weight: 400;	
+	color: #FFFFFF;	
 }
 h3 {
 	font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
     font-size: 45px;
+	color: #FFFFFF;	
 }
 h4 {
 	font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
     font-size: 45px;
+	color: #FFFFFF;	
 }
 h5 {
-	font-family: amatic-sc;
+    font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;
     font-size: 45px;
+    color: #FFFFFF;	
 }
-.footer {
-    font-size: medium;
-    color: #FFFFFF;
-    background-color: #070707;
+.container {
+    background-color: #633C32;       	
+}
+.pfooter {
+    font-family: baumans;
     font-style: normal;
     font-weight: 400;
-    font-family: baumans;
+    color: #000000;
     text-align: center;	
 }

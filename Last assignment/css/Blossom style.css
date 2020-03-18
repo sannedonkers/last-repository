@@ -1,40 +1,15 @@
 @charset "UTF-8";
-.navbar-brand {
-    font-family: amatic-sc;
-    font-style: normal;
-    font-weight: 400;
-	color: #7C5E53; 	
-	background-color: #FFFFFF;
-	text-align: center;	
-}
-.navbar-nav {
-    font-family: baumans;
-    font-style: normal;
-    font-weight: 400;
-    color: #7C5E53; 
-    background-color: #FFFFFF;
-    text-align: center;	
-}
-.nav-item {
-    font-family: baumans;
-    font-style: normal;
-    font-weight: 400;
-    color: #7C5E53; 
-    background-color: #FFFFFF;
-    text-align: center;	
-}
 h1 {
     font-family: amatic-sc;
     font-style: normal;
     font-weight: 500;
-    font-size: 60px;
+    font-size: 80px;
     color: #000000;
     text-align: center;	
 }
 .footer {
     font-size: medium;
-    color: #FFFFFF;
-    background-color: #070707;
+    color: #000000;
     font-style: normal;
     font-weight: 400;
     font-family: baumans;
@@ -44,33 +19,48 @@ h1 {
     font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;	
+	 text-align: center;	
 }
 .food-body {
     font-family: baumans;
     font-style: normal;
     font-weight: 400;
     text-align: center;
+	background-color: #FFFFFF;
 }
-.navbar-expand-lg {
-    background-color: #FFFFFF;	
+.navbar-brand {
+    font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;	
 }
 .nav-link {
-	font-family: baumans;
+    font-family: amatic-sc;
     font-style: normal;
-    font-weight: 400;	
+    font-weight: 400;
+	text-align: center;
+	font-size: 20px;
 	color: #000000;	
 }
-.navbar-collapse {
-    background-color: #FFFFFF;  
+.nav-item {
+    font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    font-size: 20px;
+    color: #000000;	
 }
-background {
-    background-color: #FFFFFF;	
-}
-.navbar {
-	background-color: #FFFFFF;	
-	text-align: center;	
-}
-.navbar.navbar-expand-lg.navbar-light.bg-light {
-    background-color: #7C5E53;    	
-}
+h6 {
+    font-family: amatic-sc;
+    font-weight: 400;
+    font-size: 55px;
+    text-align: center;	
 
+	}
+p {
+    font-family: baumans;
+    font-style: normal;
+    font-weight: 400;	
+	 text-align: center;	
+}
