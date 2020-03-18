@@ -1,0 +1,71 @@
+@charset "UTF-8";
+h1 {
+    font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    color: #000000;
+    text-align: center;	
+}
+.navbar-brand {
+    font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+	color: #000000;	
+	background-color: #FFFFFF;
+	text-align: center;	
+}
+.navbar-nav {
+    font-family: baumans;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: center;	
+}
+.nav-item {
+    font-family: baumans;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    background-color: #FFFFFF;
+    text-align: center;	
+}
+h2 {
+    font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+}
+p {
+    font-family: baumans;
+    font-style: normal;
+    font-weight: 400;	
+}
+h3 {
+	font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+}
+h4 {
+	font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+}
+h5 {
+	font-family: amatic-sc;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+}
+.footer {
+    font-size: medium;
+    color: #FFFFFF;
+    background-color: #070707;
+    font-style: normal;
+    font-weight: 400;
+    font-family: baumans;
+    text-align: center;	
+}
