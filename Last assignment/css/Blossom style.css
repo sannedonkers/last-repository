@@ -19,14 +19,7 @@ h1 {
     font-family: amatic-sc;
     font-style: normal;
     font-weight: 400;	
-	 text-align: center;	
-}
-.food-body {
-    font-family: baumans;
-    font-style: normal;
-    font-weight: 400;
-    text-align: center;
-	background-color: #FFFFFF;
+	text-align: center;	
 }
 .navbar-brand {
     font-family: amatic-sc;
@@ -63,4 +56,10 @@ p {
     font-style: normal;
     font-weight: 400;	
 	 text-align: center;	
+}
+h3 {
+	font-family: baumans;
+    font-weight: 400;
+    font-size: 23px;
+	text-align: center;
 }
